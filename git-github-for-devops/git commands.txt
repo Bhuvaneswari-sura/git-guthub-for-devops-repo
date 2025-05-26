@@ -1,0 +1,17 @@
+Id CommandLine
+   3 git init
+  11 dir
+  12 git status
+  15 git add C:\Users\SUDHEER\Downloads\Projects\Devops\Git-and-github\git-github-for-devops\testing.py
+  16 git status
+  17 git rm --cached C:\Users\SUDHEER\Downloads\Projects\Devops\Git-and-github\git-github-for-devops\testing.py
+  18 git status
+  19 git add C:\Users\SUDHEER\Downloads\Projects\Devops\Git-and-github\git-github-for-devops\testing.py
+  21 git commit -m "the first version is being commited"
+  22 git config --global user.email "suraprashanthreddy999@gmail.com"
+  23 git config --global user.name "Sura Bhuvaneswari"
+  24 git status
+  25 git commit -m "is it 2?"
+  26 git status
+  27 git restore C:\Users\SUDHEER\Downloads\Projects\Devops\Git-and-github\git-github-for-devops\testing.py
+  28 Get-hitory
